@@ -42,6 +42,9 @@ jupyter notebook ProyectoFinal.ipynb
 streamlit run dashboard.py
 ```
 
+> **Nota:** Para ejecutar el dashboard y el notebook es necesario tener el archivo `healthcare-dataset-stroke-data.csv` en la misma carpeta del proyecto.
+```
+
 ---
 
 ## Resultados principales
